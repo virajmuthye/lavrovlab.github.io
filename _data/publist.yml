@@ -1,31 +1,31 @@
-# - title: "A strongly inhomogeneous superfluid in an iron-based superconductor"
-#  image: STS_news.png
-#  description: We succeeded in measuring the superfluid density with atomic resolution on an unconventional superconductor! In contrast to expectations for conventional superconductors, we find that the superfluid densisty is strongly inhomogeneous in FeTe0.55Se0.45.
-#  authors: D Cho* & KM Bastiaans* & D Chatzopoulos*, GD Gu, MP Allan
-#  link:
-#    url: https://www.nature.com/articles/s41586-019-1408-8
-#    display:  Nature 571, 541 (2019)
-#  highlight: 1
-#  news2:
+- title: "Animal mitochondrial DNA as we don't know it: mt-genome organization and evolution in non-bilaterian lineages"
+  image: animal_mtDNA.png
+  description: Review of our work on mtDNA evolution in animals with focus on non-bilaterian phyla.
+  authors: DV Lavrov and W. Pett
+  link:
+    url: https://academic.oup.com/gbe/article/8/9/2896/2236489
+    display:  Genome Biology and Evolution 8, 2016.
+  highlight: 1
+  news2:
 
-# - title: "Imaging doubled shot noise in a Josephson scanning tunneling microscope"
-# image: PbSpub.png
-# description: We have imaged the doubling of the current noise due to Andreev reflections in a Josephson scanning tunneling microscope.
-# authors: KM Bastiaans, D Cho, D Chatzopoulos, M Leeuwenhoek, C Koks, MP Allan
-# link:
-#   url: https://arxiv.org/abs/1907.05808
-#   display:  arxiv:1907.05808
-# highlight: 1
-# news2:
+- title: "Extensive Mitochondrial mRNA Editing and Unusual Mitochondrial Genome Organization in Calcaronean Sponges"
+  image: mRNA_editing.jpg
+  description: Report of our discovery of a highly unusual mRNA editing in mitochondria of calcaronean sponges. 
+  authors: Lavrov DV, Adamski M, Chevaldonné P, Adamska M.
+  link:
+    url: https://doi.org/10.1016/j.cub.2015.11.043
+    display: Curr Biol. 26, 2016
+  highlight: 1
+  news2: See also <a href="https://doi.org/10.1016/j.cub.2015.11.009"> Dispatch in Curr Biol. 26, 2016 </a>
 
-# - title: "Charge trapping and super-Poissonian noise centres in a cuprate superconductor"
-# image: Pub_BCl.png
-# description: Using our newly developed noise-spectroscopy technique we discover charge trapping in a cuprate high-temperature superconductor.
-# authors: KM Bastiaans* & D Cho*, T Benschop, I Battisti, Y Huang, MS Golden, Q Dong, Y Jin, J Zaanen, MP Allan
-# link:
-#   url: https://www.nature.com/articles/s41567-018-0300-z
-#   display:  Nature Physics 14, 1183 (2018)
-# highlight: 1
+- title: "Characterization of mitochondrial proteomes of nonbilaterian animals"
+  image: mt_proteome.jpg
+  description: Our first shot on bioinformatic characterization of mitochondrial proteomes in non-bilaterian animals (more to come).
+  authors: Muthye V and DV Lavrov
+  link:
+    url: https://doi.org/10.1002/iub.1961
+    display: IUBMB Life 70, 2018. 
+  highlight: 1
 # news1: <a href="https://aip.scitation.org/doi/10.1063/1.5043267">Instrument details in Rev. Sci. Instrum. 89, 093709 (2018)</a>
 # news2: See also <a href="http://www.quantumuniverse.nl/een-isolerende-supergeleider"> quantum universe </a> (in dutch), <a href="https://phys.org/news/2018-10-mysterious-insulating-phenomenon-superconductor.html"> Phys.org </a>, <a href="https://www.universiteitleiden.nl/en/news/2018/10/insulating-phenomenon-in-superconductor"> Leiden University news</a>, <a href="http://iop.uva.nl/content/news/2018/10/noise-helps-physicists-discover-insulating-phenomenon-in-superconductor.html"> UvA news<a>.
 
