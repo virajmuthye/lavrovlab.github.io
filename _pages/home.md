@@ -44,7 +44,7 @@ thousand proteins that are encoded in the nucleus, but function in mitochondria)
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/spicules.jpg" alt="Slide 5" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SmartTipSide.jpg" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/editing.jpg" alt="Slide 6" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
