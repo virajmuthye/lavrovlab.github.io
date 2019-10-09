@@ -1,12 +1,15 @@
 
-- date: 28. August 2019
+- date: August 30, 2019
   headline: "<b>New website on GitHub!</b>"
 
-  # - date: 24. May 2019
-  # headline: "The smart tip paper <a href='https://iopscience.iop.org/article/10.1088/1361-6528/ab1c7f/pdf'> is finally published !</a> A collaboration with the <a href='http://groeblacherlab.tudelft.nl/'>Gröblacher Lab</a> at TU Delft.<img src='/images/newspic/SmartTip.png' class='img-responsive' style='max-width: 192px' />"
+- date: September 20, 2019
+  headline: "Mahsa Hemmat joins the lab as a rotation student. Welcome, Mahsa!"
 
-  # - date: 08. May 2019
-  #  headline: "Dome makes it on the <a href='https://www.universiteitleiden.nl/nieuws/2019/05/de-meest-stabiele-microscoop-ter-wereld'>University website</a>. <img src='/images/newspic/Saphireheadline.jpeg' class='img-responsive' style='max-width: 192px' />"
+- date: October 5, 2019
+  headline: "The mystery of Myceliospongia is solved, cox2 and rnl mt-introns, and other cool stuff in our new paper on <a href='https://www.biorxiv.org/content/10.1101/793372v1'> phylogeny and evolution of demosponges!</a>." 
+
+# - date: 08. May 2019
+#  headline: "Dome makes it on the <a href='https://www.universiteitleiden.nl/nieuws/2019/05/de-meest-stabiele-microscoop-ter-wereld'>University website</a>. <img src='/images/newspic/Saphireheadline.jpeg' class='img-responsive' style='max-width: 192px' />"
 
 # - date: 13. December 2018
 # headline: "Our paper about how to construct an STM is in <a href='https://aip.scitation.org/doi/10.1063/1.5064442'>Review of Scientific Instruments</a>. <img src='/images/newspic/DomeNews.png' class='img-responsive' style='max-width: 192px' />"
