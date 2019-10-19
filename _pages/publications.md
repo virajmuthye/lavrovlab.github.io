@@ -52,7 +52,7 @@ permalink: /publications/
 <p> &nbsp; </p>
 
 
-## Full List
+## Last 5 years
 
 {% for publi in site.data.publist %}
 
