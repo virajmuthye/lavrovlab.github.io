@@ -9,9 +9,9 @@ permalink: /publications/
 
 # Publications
 
-## Highlights
+[Google Scholar](https://scholar.google.com/citations?user=d-VpCbkAAAAJ), [ResearchGate](https://www.researchgate.net/))
 
-(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?user=d-VpCbkAAAAJ), [ResearchGate](https://www.researchgate.net/))
+## Highlights
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -51,8 +51,7 @@ permalink: /publications/
 
 <p> &nbsp; </p>
 
-
-## Last 5 years
+## Recent
 
 {% for publi in site.data.publist %}
 
@@ -61,3 +60,6 @@ permalink: /publications/
 
 {% endfor %}
 
+## Other
+
+[ResearchGate](https://www.researchgate.net/)
