@@ -1,3 +1,12 @@
+- title: "Phylogenetic relationships of heteroscleromorph demosponges and the affinity of the genus Myceliospongia (Demospongiae incertae sedis)"
+  image: dummy.png
+  description: 
+  authors: Lavrov DV, Maldonado M, Perez T, and C. Morrow
+  link:
+    url: https://doi.org/10.1101/793372
+    display: bioRxiv, 2019
+  highlight: 0
+
 - title: "Characterization of mitochondrial proteomes of nonbilaterian animals"
   image: mt_proteome.jpg
   description: Our first shot on bioinformatic characterization of mitochondrial proteomes in non-bilaterian animals (more to come).
