@@ -1,15 +1,15 @@
 
-- date: August 30, 2019
-  headline: "<b>New website on GitHub!</b>"
-
-- date: September 20, 2019
-  headline: "Mahsa Hemmat joins the lab as a rotation student. Welcome, Mahsa!"
+- date: October 18, 2019
+  headline: "Axelle, Merritt, and Dennis presented at the Regional Cornbelt RNA Meeting. <img src='/images/newspic/cornbelt.jpg' class='img-responsive' style='max-width: 192px' />"
 
 - date: October 5, 2019
   headline: "The mystery of Myceliospongia is solved, cox2 and rnl mt-introns, and other cool stuff in our new paper on <a href='https://www.biorxiv.org/content/10.1101/793372v1'> phylogeny and evolution of demosponges!</a>." 
 
-- date: October 18, 2019
-  headline: "Axelle, Merritt, and Dennis presented at the Regional Cornbelt RNA Meeting. <img src='/images/newspic/cornbelt.jpg' class='img-responsive' style='max-width: 192px' />"
+- date: September 20, 2019
+  headline: "Mahsa Hemmat joins the lab as a rotation student. Welcome, Mahsa!"
+
+- date: August 30, 2019
+  headline: "<b>New website on GitHub!</b>"
 
 # - date: 13. December 2018
 # headline: "Our paper about how to construct an STM is in <a href='https://aip.scitation.org/doi/10.1063/1.5064442'>Review of Scientific Instruments</a>. <img src='/images/newspic/DomeNews.png' class='img-responsive' style='max-width: 192px' />"
